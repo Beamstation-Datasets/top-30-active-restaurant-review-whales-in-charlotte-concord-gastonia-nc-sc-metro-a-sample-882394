@@ -9,9 +9,9 @@
 | Dataset ID | `882394` |
 | Location | Charlotte-Concord-Gastonia, NC-SC |
 | Category | Restaurants |
-| Full dataset size | 1,325 records |
-| Free sample size | 158 records (11.92%) |
-| Last export | 2026-03-31T23:40:16.494047+00:00 |
+| Full dataset size | 1,587 records |
+| Free sample size | 158 records (9.96%) |
+| Last export | 2026-04-15T01:19:33.755879+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-charlotte-concord-gastonia-nc-sc-metro-a-sample-882394/releases/download/sample-latest/beamstation_882394_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
