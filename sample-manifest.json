@@ -1,12 +1,12 @@
 {
-  "export_job_id": "80efa422-5ef7-4a17-b0d3-e248e8f22bc7",
+  "export_job_id": "10dbd6d6-d7a5-4151-a963-efae0c30d27e",
   "id_short": 882394,
-  "published_at": "2026-04-22T19:05:38Z",
+  "published_at": "2026-04-29T19:12:01Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-charlotte-concord-gastonia-nc-sc-metro-a-sample-882394",
   "sample_asset_name": "beamstation_882394_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/882394/beamstation_882394_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
-  "sample_records": 105,
-  "sample_sha256": "a6dbcc2f7db51351c47aa9865530b1f2bd1d41c74cd8e0b4082996e8658af7d0",
-  "sample_size_bytes": 429948,
-  "total_records": 1056
+  "sample_records": 163,
+  "sample_sha256": "7fa1bc416960e3acc2fa55201d788352751b940e5a1254bebea260ab53f54ffe",
+  "sample_size_bytes": 636807,
+  "total_records": 1631
 }
